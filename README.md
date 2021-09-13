@@ -2,7 +2,9 @@
 
 ## (0) Paper Title
 3D WaveUNet: 3D Wavelet Integrated Encoder-Decoder Network for Neuron Segmentation
+
 or
+
 Neuron Sewgmentation using 3D Wavelet Integrated Encoder-Decoder Network
 
 ## (1) Training WaveCNet on ImageNet
