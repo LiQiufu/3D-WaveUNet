@@ -1,11 +1,6 @@
-# 3D-WaveUNet [[paper1]](https://arxiv.org/abs/2106.00259.pdf)[[paper2]](will be released)
+# 3D-WaveUNet [[paper]](https://arxiv.org/abs/2106.00259.pdf)
 
-## (0) Paper Title
-3D WaveUNet: 3D Wavelet Integrated Encoder-Decoder Network for Neuron Segmentation
-
-or
-
-Neuron Sewgmentation using 3D Wavelet Integrated Encoder-Decoder Network
+## (0) Neuron Sewgmentation using 3D Wavelet Integrated Encoder-Decoder Network
 
 ## (1) Training 3D WaveUNet on NeuCuDa
 main.py
@@ -25,5 +20,12 @@ main_compare.py
 ## (6) The paper
 
 If the code or method help you in the research, please cite the following paper:
-```bash
+```
+@article{li2021neuron,
+  title={Neuron segmentation using 3D wavelet integrated encoder-decoder network},
+  author={Li, Qiufu and Shen, Linlin},
+  journal={Bioinformatics},
+  year={2021},
+  doi={https://doi.org/10.1093/bioinformatics/btab716}
+}
 ```
